@@ -1,0 +1,20 @@
+  999  git config ---global usser.Rashidul
+ 1000  git config ---global usser.name "Rashidul"
+ 1001  git config --global  --list
+ 1002  git config --global user.name "rkabir27"
+ 1003  git config --global user.email "rkabir2027@gmail.com"
+ 1004  git config --global --list
+ 1005  git push origin master
+ 1006  cd
+ 1007  cd Documents/mkdir DevOps-Demo
+ 1008  cd Documents
+ 1009  mkdir DevOps-Demo
+ 1010  ls
+ 1011  cd DevOps-Demo
+ 1012  git clone https://github.com/rkabir27/DevOpsProject.git
+ 1013  ls
+ 1014  cd DevOpsProject
+ 1015  ls
+ 1016  cd
+ 1017  cd Documents
+ 1018  cd DevOpsProject
